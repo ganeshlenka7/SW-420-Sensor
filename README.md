@@ -10,8 +10,6 @@ Vibration Sensor (Digital Output)
 
 LED
 
-Resistor (220Ω recommended)
-
 Jumper wires
 
 Breadboard
@@ -44,7 +42,7 @@ LED → Arduino Pin 8 (with resistor)
 
 VCC & GND → Arduino 5V & GND
 
-![SW 420 circuit diagram](SW%20420%Sensor.png)
+![SW 420 circuit diagram](SW%20420%20Sensor.png)
 
 Code
 
